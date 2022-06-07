@@ -7,8 +7,7 @@ samy@naqwada-security:/tmp # ./r00tme
   /  |/ / _ \/ ___/ ___/ / / / __ `__ \   / /  / __ `/ __ \|// ___/
  / /|  /  __/ /__/ /  / /_/ / / / / / /  / /__/ /_/ / /_/ / (__  ) 
 /_/ |_/\___/\___/_/   \__,_/_/ /_/ /_/  /_____\__,_/_.___/ /____/  
-                                                                                 
-               
+                                                                                                
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ■ת■!ת■ת■ת■ת■■ת■!ת■ת■ת■ת■qת■ת■ת■תj■ת■ת■תdr■ת■תe■ת■תq■ת■ת!■
 Segmentation fault■[]D■■■■■■■■u■■ol╗░iońń
