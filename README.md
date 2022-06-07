@@ -31,6 +31,6 @@ root@naqwada-security ~ # cat /root/info.txt
 ---
 
 <p align="center">
- <a href="https://samy.link" title="Visit my portfolio!" target="_blank"> <img width="10%" src="https://i.ibb.co/6FqwC67/Naqwada-logo.png" alt="Naqwada Security logo"></a>
-  <a href="https://samy.link/blog" title="Visit my blog!" target="_blank"> <img src="https://i.ibb.co/z4kK1SW/Naqwada-Security-Samy-Logo.png" alt="Naqwada Security banner"></a>
+ <a href="https://samy.link" title="Visit my portfolio!" target="_blank"> <img width="8%" src="https://samy.link/img/naqwada-security-logo.png" alt="Naqwada Security logo"></a> ‎ ‎ 
+  <a href="https://samy.link/blog" title="Visit my blog!" target="_blank"> <img src="https://samy.link/img/logo-geek-large.png" alt="Naqwada Security banner"></a>
 </p>
